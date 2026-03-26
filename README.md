@@ -37,4 +37,20 @@ Pins can be adjusted in `main.cpp`:
 ```cpp
 PIN_CS   = 5;
 PIN_WR   = 18;
-PIN_DATA = 23;
+PIN_DATA = 23;cpp
+```
+
+## Expected Behaviour
+
+On successful startup:
+
+- The LCD powers on
+- A static test screen is displayed
+- All numerical fields are populated
+
+---
+
+## Notes
+
+- This is a **test/validation driver**, not a full implementation.
+- Intended for verifying basic communication and display functionality before integrating into a larger FCU system.
