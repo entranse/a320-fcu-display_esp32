@@ -55,4 +55,6 @@ On successful startup:
 ## Notes
 
 - This is a **test/validation driver**, not a full implementation.
+- The driver is still in a draft form. Verified all segments are controllable, but the interface has not been fully polished to replicate A320 behavour.
 - Intended for verifying basic communication and display functionality before integrating into a larger FCU system.
+
