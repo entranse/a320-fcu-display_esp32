@@ -2,6 +2,8 @@
 
 This project provides a simple driver to test a custom **A320 FCU LCD display** using an ESP32.
 
+LCD Display model/version number: **136286W_Y191_250627**
+
 ## Hardware
 
 - **Target board:** ESP32  
