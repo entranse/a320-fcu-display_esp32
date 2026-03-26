@@ -37,7 +37,7 @@ Pins can be adjusted in `main.cpp`:
 ```cpp
 PIN_CS   = 5;
 PIN_WR   = 18;
-PIN_DATA = 23;cpp
+PIN_DATA = 23;
 ```
 
 ## Expected Behaviour
